@@ -1,0 +1,1 @@
+C:\Users\Paulitos\Desktop\programacao-auto-desempenho\aula3\target\debug\aula3.exe: C:\Users\Paulitos\Desktop\programacao-auto-desempenho\aula3\src\hash\mod.rs C:\Users\Paulitos\Desktop\programacao-auto-desempenho\aula3\src\main.rs
